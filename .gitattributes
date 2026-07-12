@@ -1,0 +1,12 @@
+# Normalize line endings across platforms.
+* text=auto eol=lf
+
+# Explicit text types.
+*.py    text
+*.md    text
+*.txt   text
+*.cfg   text
+*.toml  text
+
+# Notebooks are JSON; treat as text but avoid diff noise.
+*.ipynb text
