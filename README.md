@@ -1,6 +1,6 @@
 # 📈 Derivatives Odyssey
 
-**A production-grade research pipeline for forecasting market volatility and backtesting a systematic options strategy that trades the Volatility Risk Premium.**
+**A research pipeline for forecasting market volatility and backtesting a systematic options strategy that trades the Volatility Risk Premium.**
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/python-3.11-blue.svg">
